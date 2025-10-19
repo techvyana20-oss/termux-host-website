@@ -28,8 +28,8 @@ git clone https://github.com/techvyana20-oss/termux-host-website.git
 
 ### Step 5: Navigate to Project Folder
 ```bash
-cd termux-host-website
 ls
+cd termux-host-website
 ```
 
 ### Step 6: Start Python HTTP Server
