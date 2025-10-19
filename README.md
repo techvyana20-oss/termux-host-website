@@ -50,12 +50,6 @@ _or manually open in Chrome: http://localhost:8000/index.html_
 
 ---
 
-## 📸 Screenshot
-
-![Website Screenshot](![Screeshot](https://github.com/user-attachments/assets/292ef54f-936b-42ca-89ff-7d2da7677747))  
-
----
-
 ## 📝 License
 This project is licensed under the **MIT License**. See the LICENSE file for details.
 
