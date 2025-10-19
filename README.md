@@ -52,7 +52,7 @@ _or manually open in Chrome: http://localhost:8000/index.html_
 
 ## 📸 Screenshot
 
-![Website Screenshot](screenshot.png)  
+![Website Screenshot](![Screeshot](https://github.com/user-attachments/assets/292ef54f-936b-42ca-89ff-7d2da7677747))  
 *Replace `screenshot.png` with your actual screenshot file.*
 
 ---
